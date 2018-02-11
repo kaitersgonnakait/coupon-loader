@@ -1,0 +1,6 @@
+https://giantfood.com/auth/api/private/synergy/offers/440110336338?numRecords=1000&pageIndex=0&categories=&brands=&_=1518319698157
+
+https://giantfood.com/auth/api/private/synergy/offers/combined/440110336338?numRecords=1000&pageIndex=0&categories=&brands=&loaded=true&_=1518319698158
+
+# this last call looks like the most important
+https://giantfood.com/auth/api/private/synergy/coupons/offers/440110336338?numRecords=1000&pageIndex=0&categories=&brands=&_=1518319698159
