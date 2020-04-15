@@ -1,9 +1,13 @@
-Giant Coupon Clipper
+Coupon Loader
 ====================
 
-Just a simple script that will log in and then attempt to load all
-available coupons to your Giant card.
+Just a few simple scripts that will log in and then attempt to load all
+available coupons to your grocery accounts.
 
+
+Giant Coupon Loader: https://github.com/Shatnerz/giant-coupon-clip
+
+Safeway Coupon Loader inspired by: https://github.com/smkent/safeway-coupons
 
 Getting Started
 ---------------

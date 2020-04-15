@@ -112,7 +112,7 @@ def main():
     token = login(session, username, password, client_id)
     coupons = retrieve_coupons(session, account_number)
     process_coupons(session, account_number, coupons)
-    print('DONE')
+    print('LOADED ' + str(len(coupons.get('offers'))) + ' GIANT COUPONS')
 
 
 if __name__ == '__main__':
